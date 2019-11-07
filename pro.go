@@ -5,5 +5,5 @@ package main
 import "fmt"
 
 func init() {
-        fmt.Printf("GO PRO\n")
+        fmt.Printf("GO PRO V3\n")
 }
